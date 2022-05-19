@@ -1,0 +1,10 @@
+.gliderContainer {
+    width: 25%;
+}
+
+.glidersTitleContainer {
+    border: 2px solid #197278;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 61px;
+}

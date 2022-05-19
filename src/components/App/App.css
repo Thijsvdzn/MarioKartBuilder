@@ -1,0 +1,14 @@
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.selectionContainer {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}

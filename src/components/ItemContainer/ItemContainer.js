@@ -5,7 +5,7 @@ class ItemContainer extends React.Component {
     render() {
         return (
             <div className="item">
-                
+                <img className="image" src={this.props.src} />
             </div>
         );
     }

@@ -10,7 +10,7 @@ class App extends React.Component {
     render() {
         return (
             <div className="container">
-                <h1 className="title">MK8DX Builder</h1>
+                <h1 className="title">Mario Kart Builder</h1>
             
                 <div className="selectionContainer">
                     <Characters />

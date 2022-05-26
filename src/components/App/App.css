@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url(https://fonts.gstatic.com/s/bebasneue/v9/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2) format('woff2');
+}
+
 .container {
     width: 1280px;
     margin: auto;
@@ -11,6 +16,9 @@
 
 .title {
     text-align: center;
+    font-family: 'Bebas Neue';
+    font-size: 72px;
+    margin: 30px;
 }
 
 .selectionContainer {

@@ -30,3 +30,17 @@
 body{
     background-image: url("background.png");
 }
+
+@media only screen and (max-width: 1350px) {
+    .container {
+        width: 80vw;
+    }
+    
+    .selectionContainer {
+        flex-direction: column;
+    }
+    
+    .title {
+        font-size: 49px;
+    }
+}
